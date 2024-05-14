@@ -108,4 +108,3 @@ print("Hello World!")
 - **Keep Documentation Up-to-Date**
     - Automate documentation updates when code changes
     - Encourage contributors to update documentation
-```
